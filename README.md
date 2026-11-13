@@ -10,7 +10,7 @@ Rather than just looking at how many people applied for mortgages, I wanted to u
 
 ## Tableau Dashboard
 
-**[View My Interactive Tableau Dashboard](https://public.tableau.com/app/profile/maaz.foshanji/viz/DMVMortgageLendingAnalysis2025/DMVMortgageLendingDashboard)**
+**[Tableau Dashboard](https://public.tableau.com/app/profile/maaz.foshanji/viz/DMVMortgageLendingAnalysis2025/DMVMortgageLendingDashboard)**
 
 ## Tools and Data
 
