@@ -93,7 +93,7 @@ One thing I learned was how important it is to choose the right metric. For exam
 
 I also became more comfortable using Tableau calculated fields, building charts, and organizing several visualizations into a dashboard that tells a clear story.
 
-Overall, this project helped me practice the type of work I'm interested in doing as a business or data analyst: asking questions, working through the data, and explaining what the results mean.
+This project helped me practice the type of work I'm interested in doing as a business or data analyst: asking questions, working through the data, and explaining what the results mean.
 
 ## Data Source
 
